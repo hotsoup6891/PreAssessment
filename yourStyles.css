@@ -2,4 +2,18 @@ body {
   background-color: #e3e3e3;
 }
 
-/* Your Code Here */
+.row-one {
+  color: green;
+}
+
+.row-two {
+  color: yellow;
+}
+
+.row-two {
+  color: blue;
+}
+
+.row-two {
+  color: red;
+}
